@@ -53,7 +53,7 @@ const Contact = () => {
               {/* social media icons */}
               <div className="flex items-center justify-between pt-5">
                 <h1 className="text-sm font-semibold text-blue-800">
-                  Let's Connect Together
+                  Let us Connect Together
                 </h1>
                 <a
                   href="https://github.com/LarryPinicola"

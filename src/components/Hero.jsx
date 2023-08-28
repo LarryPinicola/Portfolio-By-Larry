@@ -12,16 +12,17 @@ const Hero = () => {
       <div className="max-w-[1024px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div className="">
           <p className="uppercase tracking-widest text-gray-600 text-sm">
-            let's build something together
+            let us build something together
           </p>
           <h1 className="text-gray-700 text-4xl lg:text-5xl font-semibold py-3 tracking-tight">
-            Hi, I'm <span className="text-blue-800">Zwe Kyaw Htet</span>
+            Hi, I am <span className="text-blue-800">Zwe Kyaw Htet</span>
           </h1>
           <h1 className="text-gray-700 text-4xl lg:text-5xl font-semibold py-1 tracking-tight">
             A Front-End Web Developer
           </h1>
           <p className="text-sm md:text-base lg:text-base text-gray-700 py-3 max-w-[85%] lg:max-w-[70%] m-auto">
-            I'm a creative Frontend Developer, I can create different and creative websites.
+            I am a creative Frontend Developer, I can create different and
+            creative websites.
           </p>
           {/* social icons  */}
           <div className="flex items-center justify-between max-w-[330px] m-auto py-3">

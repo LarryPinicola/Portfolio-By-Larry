@@ -91,7 +91,7 @@ const Navbar = () => {
 
           <div className="border-b border-gray-300 my-6">
             <p className="text-sm w-[85%] md:w-[90%] pb-3">
-              Let's create together
+              Let us create together
             </p>
           </div>
           <div className="py-4 flex flex-col">

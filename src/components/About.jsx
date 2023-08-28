@@ -16,7 +16,7 @@ const About = () => {
           </h1>
           <h2 className="text-4xl py-4 font-semibold">Who I Am</h2>
           <p className="tracking-wide text-sm py-2 leading-6 ">
-            I'm a young enthusiast driven by a strong passion for designing
+            I am a young enthusiast driven by a strong passion for designing
             captivating websites and creating compelling content. The world of
             web development is vast, with numerous languages, libraries, and
             framework to explore and master.Staying updated with the latest tech

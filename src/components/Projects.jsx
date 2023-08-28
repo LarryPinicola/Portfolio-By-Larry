@@ -14,7 +14,7 @@ const Projects = () => {
           <h1 className="text-lg tracking-wide uppercase text-yellow-600">
             Projects
           </h1>
-          <h2 className="text-4xl py-4 font-semibold">What I've built</h2>
+          <h2 className="text-4xl py-4 font-semibold">What I have built</h2>
         </div>
         {/* projects */}
         <div className="grid md:grid-cols-1 lg:grid-cols-2 gap-10">
